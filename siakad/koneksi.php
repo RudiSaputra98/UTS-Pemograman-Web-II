@@ -9,7 +9,7 @@ $database = "siakad";
 $koneksi = mysqli_connect ($server,$user,$password,$database);
 
 if ($koneksi == true){
-   // echo "BERHASIL TERHUBUNG";
+   //echo "BERHASIL TERHUBUNG";
 } else "GAGAL TERHUBUNG";
 
 
